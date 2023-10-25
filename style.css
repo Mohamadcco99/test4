@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96.1vw;
+    height: 17vh;
+    background-color: rgb(2, 210, 247);
+    border-radius: 5px;
+    margin: 10px;
+  }
+  main {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+  }
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: 60vh;
+    background-color: rgb(242, 120, 247);
+    border-radius: 5px;
+  }
+  .sidebar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 60vh;
+    background-color: rgb(129, 104, 241);
+    border-radius: 5px;
+    margin-left: 10px;
+   
+  }
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96.1vw;
+    height: 17vh;
+    background-color: rgb(2, 210, 247);
+    border-radius: 5px;
+    margin: 10px;
+  }
+  
